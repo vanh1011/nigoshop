@@ -24,15 +24,7 @@
   </iframe>
    <div class="back">
    <ul>
-   	<li>Bản tuyên ngôn độc lập tự do</li>
-   	<ol>
-   		<li>quyền được sống, quyền tự do</li>
-   	</ol>
-
-   	<li>thực dân Pháp lợi dụng quyền bình đẳng bác ái</li>
-   	<li>Không cho nhân dân ta 1 chút dân chủ</li>
-   	<li>lập 3 chế độ dân chủ để ngăn dân tộc ta đoàn kết</li>
-   	<li>Tắm các cuộc khởi nghĩa trong bể máu</li>
+   	
    </ul>
    </div>
    <table border="1"
