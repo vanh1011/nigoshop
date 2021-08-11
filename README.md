@@ -16,7 +16,7 @@
   <img src="C:\Users\ADMIN\OneDrive - University of transport and Communication\Ảnh\Ảnh chụp màn hình/logoshop.PNG" alt="eror 404" width="570" height="381">
   <p  align="left"> Nigoshop là shop quần áo chuyên về các brand hot trend </p> 
   <!-- aligin : can le  -->
-  <p aligin="justify">Lăng được chính thức khởi công ngày 02/09/1975, tại vị trí của lễ đài cũ giữa quảng trường Ba Đình,nơi HỒ Chí Minh từng chủ trì các cuộc mít tinh </p> 
+  <p aligin="justify">NIgo luôn hướng đến việc đáp ứng nhu cầu thẩm mỹ của khách hàng</p> 
   <a href="https://vi.wikipedia.org/wiki/L%C4%83ng_Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh">Wikipedia </a>
   <br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Hd_r8W19WWI">
