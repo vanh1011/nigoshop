@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Lăng Chủ tịch HCM</title>
+	<title>Nigoshop</title>
 	<meta> charset
 	<style type="text/css">
 
 		.back{
-			color:red;
+			color:black;
 			width: 30%;
 		}
 	</style>
 </head>
 <body>
-	<h2>Demo lăng chủ tịch HCM</h2>
-  <img src="langchutich.png" alt="eror 404" width="570" height="381">
-  <p  align="left">Lăng chủ tịch Hồ Chí Minh còn gọi là lăng Hồ chủ tịch, Lăng Bác, nơi gìn giữ thi hài của Hồ Chí minh </p> 
+	<h1 align="center" style="font-family: 30"> Nigo Shop </h1>
+  <img src="C:\Users\ADMIN\OneDrive - University of transport and Communication\Ảnh\Ảnh chụp màn hình/logoshop.PNG" alt="eror 404" width="570" height="381">
+  <p  align="left"> Nigoshop là shop quần áo chuyên về các brand hot trend </p> 
   <!-- aligin : can le  -->
   <p aligin="justify">Lăng được chính thức khởi công ngày 02/09/1975, tại vị trí của lễ đài cũ giữa quảng trường Ba Đình,nơi HỒ Chí Minh từng chủ trì các cuộc mít tinh </p> 
   <a href="https://vi.wikipedia.org/wiki/L%C4%83ng_Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh">Wikipedia </a>
